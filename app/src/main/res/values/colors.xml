@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="green">#4CAF50</color> <!-- Green for ON state -->
+    <color name="red">#F44336</color>   <!-- Red for OFF state -->
+    <color name="gray">#BDBDBD</color>  <!-- Gray for thumb when OFF -->
+    <color name="black">#000000</color> <!-- Black color -->
+</resources>
+

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "337802112821",
+    "firebase_url": "https://roomautomationdb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "roomautomationdb",
+    "storage_bucket": "roomautomationdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337802112821:android:cb93a761c031560880e67c",
+        "android_client_info": {
+          "package_name": "com.example.appcontroller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNEbj_od7tFYmD3Segq7-lmM3LlllRF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
